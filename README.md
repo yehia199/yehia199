@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  I am Yehia Ahmed 
-  I’m currently learning JavaScript
-  my-skills: HTML,CSS,some JS;
+- i am Yehia Ahmed
+- I am from egypt
+- i am 14 years old
+- self taught web dev
+- i currently learning JavaScript
+- my skils: HTMl, CSS, and some JS
