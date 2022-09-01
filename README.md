@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am yehia ahmed
 
 <!--
 **yehia199/yehia199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- i am Yehia Ahmed
-- I am from egypt
-- i am 14 years old
-- self taught web dev
-- i currently learning JavaScript
-- my skils: HTMl, CSS, and some JS
+- A self taught web dev
+- I am from gypt
+- I am 14 years old
+- I currently learning JavaScript
+- My skils: HTMl, CSS, and some JS
