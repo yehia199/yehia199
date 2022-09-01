@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - A self taught web dev
-- I am from gypt
+- I am from Egypt
 - I am 14 years old
 - I currently learning JavaScript
 - My skils: HTMl, CSS, and some JS
