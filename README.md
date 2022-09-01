@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  I am Yehia Ahmed 
+  I’m currently learning JavaScript
+  my-skills: HTML,CSS,some JS;
