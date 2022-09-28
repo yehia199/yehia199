@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - A self taught web dev
 - I am from Egypt
 - I am 14 years old
-- I currently learning JavaScript
-- My skils: HTMl, CSS, and some JS
+- I am currently learning JavaScript
+- My skils = [HTMl, CSS, and some JS]
