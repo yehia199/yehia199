@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - I am from Egypt
 - I am 14 years old
 - I am currently learning JavaScript
-- let MySkils = [HTMl, CSS, and some JS];
+- let mySkils = [HTMl, CSS, and some JS];
