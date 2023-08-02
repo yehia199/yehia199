@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - A self taught web dev
 - I am from Egypt
-- I am 14 years old
+- I am 15 years old
 - I am currently learning JavaScript
 - let mySkils = [HTMl, CSS, and some JS];
