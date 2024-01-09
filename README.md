@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- A self taught web dev
+- A self taught web dev (still learning)
 - I am from Egypt
 - I am 15 years old
 - I am currently learning JavaScript
-- let mySkils = [HTMl, CSS, and some JS];
+- mySkils = [HTMl, CSS, and some JS];
